@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_app/fragements/facts.dart';
 import 'package:flutter_app/fragements/first_fragment.dart';
 
 class DrawerItem {
@@ -23,11 +24,12 @@ class HomePage extends StatefulWidget{
 
 class HomePageState extends State<HomePage> {
 
-  int _selectedDrawerIndex = 0;
+  int _selectedDrawerIndex = 2;
 
   _getDrawerPos(int pos) {
     switch(pos) {
-      case 0: return new FirstFragment();
+      //case 0: return new FirstFragment();
+      case 2: return new Next();
 
       default: return new Text("Error");
     }

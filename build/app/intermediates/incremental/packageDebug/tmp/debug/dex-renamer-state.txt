@@ -1,4 +1,4 @@
-#Sat Oct 19 02:26:25 PDT 2019
-base.0=C\:\\Users\\ADMIN\\Desktop\\MoonTrek\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+#Sat Oct 19 17:10:31 IST 2019
+base.0=C\:\\Users\\Admin\\AndroidStudioProjects\\MoonTrek\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

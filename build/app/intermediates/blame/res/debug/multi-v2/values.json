@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ADMIN\\Desktop\\MoonTrek\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Admin\\AndroidStudioProjects\\MoonTrek\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ADMIN\\Desktop\\MoonTrek\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\Admin\\AndroidStudioProjects\\MoonTrek\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
